@@ -17,7 +17,7 @@ Each image is 28x28 pixels and belongs to one of ten classes representing differ
 - `midterm_project.ipynb`: Jupyter Notebook containing the code and results.
 - `README.md`: This file with instructions on setting up and running the project.
 - `requirements.txt`: List of required Python packages.
-- `accuracy_comparison.png`: Graphical visualization of the results.
+- `Report.pdf`: Professional Report for the project.
 
 ## Setup and Execution
 
